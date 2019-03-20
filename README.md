@@ -1,1 +1,1 @@
-# drake_examples
+# Miscellaneous resources
