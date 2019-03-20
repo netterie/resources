@@ -4,21 +4,24 @@
 - Please jump in 
 
 - Issues Do's and Don'ts: 
-    - Keep issues specific (examples)
-    - Use GH Markdown
-    - Self-reference (TOC example)
+    - DO use [GH Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+    - DO keep issues and issue titles specific, [like this](https://github.com/statnet/SHAMP/issues/142) [or this](https://github.com/statnet/WHAMP/issues/94). It's good for morale.
+    - DO NOT use broad issue titles [like this](https://github.com/statnet/SHAMP/issues/49) without imposing some organization
+    - DO organize issues using headers and updating the first post - can even [use post-specific links](https://stackoverflow.com/questions/25163598/how-do-i-reference-a-specific-issue-comment-on-github) to [have a TOC](https://github.com/statnet/SHAMP/issues/134)
+    - DO [cross-reference your issues](https://help.github.com/en/articles/autolinked-references-and-urls#issues-and-pull-requests) 
 - Projects and Milestones can organize Issues 
-    - Setting up new Project or Milestone (I like to have a Closed column)
-    - Quick-add an Issue to P or M
-    - Notes and columns in Projects
-- Examples: 
-    - EpiModelEDA Project
-    - SHAMP Models Project - can use a Project as a reference page
-    - SHAMP netdx Issue - but, we forget about it!
-    - SHAMP GitBook links to these - perhaps that's how we can remember
-- Pros and cons
-    - Only use what you can keep track of
+    - Setting up new Project or Milestone (I like to have a Closed column) - [P example](https://github.com/statnet/SHAMP/projects) and [M example](https://github.com/statnet/SHAMP/issues)
+    - Notes and columns in Projects - [can use GH markdown in Notes](https://github.com/statnet/SHAMP/projects/5)
+    - Quick-add an Issue to P or M - [example](https://github.com/statnet/SHAMP/issues)
+- Project examples: 
+    - For cataloguing bugs/needs that arise: [EpiModelEDA Project](https://github.com/statnet/EpiModelEDA/projects/1)
+    - For planning ahead: [WHAMP ART-NET descriptives](https://github.com/statnet/WHAMP/projects/7)
+    - For documentation/reference: [SHAMP Models Project](https://github.com/statnet/SHAMP/projects/13)
+    - For losing track of work: [SHAMP Final 6 months](https://github.com/statnet/SHAMP/projects/11)
+- Projects and Milestones Do's and Don'ts
+    - DON'T make too many
+    - DO frequently revisit and (collectively?) work from the ones you make
 - Other Issue compiling mechanisms
-    - README.md
-    - Wiki
+    - README.md - like this one, or [this one](https://github.com/statnet/SHAMP/tree/master/egonet/data-prep/make_rda)
+    - [Wiki](https://github.com/statnet/SHAMP/wiki)
     - GitBook
