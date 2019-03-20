@@ -23,6 +23,6 @@
 - DON'T make too many
 - DO frequently revisit and (collectively?) work from the ones you make
 ## Other Issue compiling mechanisms
-- README.md - like this one, or [this one](https://github.com/statnet/SHAMP/tree/master/egonet/data-prep/make_rda)
+- README.md - like this one, or [this one](https://github.com/statnet/SHAMP/tree/master/egonet/data-prep/make_rda). Any folder in GitHub that has a README.md file will display that file when you browse the repo online.
 - [Wiki](https://github.com/statnet/SHAMP/wiki)
 - GitBook
