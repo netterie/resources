@@ -19,7 +19,7 @@
 
 ## Debug faster by knitting modified chapters one-at-a-time
 Options:
-- Comment out the other chapters in _bookdown.yml, and then building
+- Comment out the other chapters in ```_bookdown.yml```, and then build
 - Have the chapter code be completely standalone (doesn't rely on prior chapters), and then knit just that chapter
 - Use ```bookdown::preview_chapter``` (can't remember why I don't like this)
 
