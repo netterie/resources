@@ -1,6 +1,8 @@
 
 # Getting started with bookdown for Gitbooks
 
+Again, please jump in
+
 ## Set up your template
 - In RStudio, 
    - File --> New Project --> New Directory
@@ -10,6 +12,8 @@
 ## Modify _bookdown.yml
 - [EpiModelEDA example](https://github.com/statnet/EpiModelEDA/blob/master/_bookdown.yml)
 
+## Rely on the bookdown website
+[https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/)
 
 # Some tips
 
