@@ -18,7 +18,7 @@
 - For cataloguing bugs/needs that arise: [EpiModelEDA Project](https://github.com/statnet/EpiModelEDA/projects/1)
 - For planning ahead: [WHAMP ART-NET descriptives](https://github.com/statnet/WHAMP/projects/7)
 - For documentation/reference: [SHAMP Models Project](https://github.com/statnet/SHAMP/projects/13)
-- For losing track of work: [SHAMP Final 6 months](https://github.com/statnet/SHAMP/projects/11)
+- For losing track of work: [SHAMP Final 6 months](https://github.com/statnet/SHAMP/projects/11) or [SHAMP milestones](https://github.com/statnet/SHAMP/milestones) - we sort of forgot about them
 ## Projects and Milestones Do's and Don'ts
 - DON'T make too many
 - DO frequently revisit and (collectively?) work from the ones you make
