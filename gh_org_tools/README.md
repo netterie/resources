@@ -4,14 +4,12 @@
 - Please jump in 
 
 ## Issues Do's and Don'ts: 
-- DO use [GH Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
-   - [x] Task list!
+- DO use [GH Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax), screenshots, and [cross-referencing](https://help.github.com/en/articles/autolinked-references-and-urls#issues-and-pull-requests)
+   - [Demo issue](https://github.com/statnet/SHAMP/issues/160)
 - DO keep issues and issue titles specific, [like this](https://github.com/statnet/SHAMP/issues/142) [or this](https://github.com/statnet/WHAMP/issues/94). It's good for morale.
     - DO move your decision-containing emails over to an Issue!
 - DON'T use broad issue titles [like this](https://github.com/statnet/SHAMP/issues/49) without imposing some organization
-- DO organize issues using headers and updating the first post - can even [use post-specific links](https://stackoverflow.com/questions/25163598/how-do-i-reference-a-specific-issue-comment-on-github) to [have a TOC](https://github.com/statnet/SHAMP/issues/134)
-- DO [cross-reference your issues](https://help.github.com/en/articles/autolinked-references-and-urls#issues-and-pull-requests) 
-- DO [include screen shots]()
+- DO organize broad/long issues using headers and updating the first post - can even [use post-specific links](https://stackoverflow.com/questions/25163598/how-do-i-reference-a-specific-issue-comment-on-github) to [have a TOC](https://github.com/statnet/SHAMP/issues/134)
 ## Projects and Milestones can organize Issues 
 - Setting up new Project or Milestone (I like to have a Closed column) - [P example](https://github.com/statnet/SHAMP/projects) and [M example](https://github.com/statnet/SHAMP/issues)
 - Notes and columns in Projects - [can use GH markdown in Notes](https://github.com/statnet/SHAMP/projects/5)
