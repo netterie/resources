@@ -28,7 +28,7 @@ Options:
 - Use ```bookdown::preview_chapter``` (can't remember why I don't like this)
 
 ## Do not make a book when an Rmd file with floating TOC is sufficient
-You WILL spend more time debugging, because it's a more complex file structure
+You WILL spend more time debugging, because it's a more complex file structure. It's also more annoying to share, unless you're making it a public website.
 
 Book is useful when there is so much content that you 
 - save time by knitting chapters separately
