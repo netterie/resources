@@ -13,7 +13,7 @@
 ## Projects and Milestones can organize Issues 
 - Setting up new Project or Milestone (I like to have a Closed column) - [P example](https://github.com/statnet/SHAMP/projects) and [M example](https://github.com/statnet/SHAMP/issues)
 - Notes and columns in Projects - [can use GH markdown in Notes](https://github.com/statnet/SHAMP/projects/5)
-- Quick-add an Issue to P or M - [example](https://github.com/statnet/SHAMP/issues)
+- Quick-add an Issue to P or M - [example](https://github.com/statnet/SHAMP/issues/160)
 ## Project examples: 
 - For cataloguing bugs/needs that arise: [EpiModelEDA Project](https://github.com/statnet/EpiModelEDA/projects/1)
 - For planning ahead: [WHAMP ART-NET descriptives](https://github.com/statnet/WHAMP/projects/7)
