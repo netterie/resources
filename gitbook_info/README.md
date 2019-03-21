@@ -7,7 +7,11 @@ Again, please jump in
 - In RStudio, 
    - File --> New Project --> New Directory
    - Choose "Book project using bookdown"
-   - Click "Build Book"
+   - Click "Build Book" (top right, near the Git tab) 
+   
+## Modify _output.yml
+- Change "A Minimal Book Example" to title of your choice (will appear at the top of the left-hand TOC)
+- Delete the pdf and/or epub output sections, if you don't care to compile a pdf and are getting pandoc/tex/epub errors when you try to build
 
 ## Modify _bookdown.yml
 - [EpiModelEDA example](https://github.com/statnet/EpiModelEDA/blob/master/_bookdown.yml)
