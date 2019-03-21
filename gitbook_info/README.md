@@ -15,6 +15,9 @@ Again, please jump in
 
 ## Modify _bookdown.yml
 - [EpiModelEDA example](https://github.com/statnet/EpiModelEDA/blob/master/_bookdown.yml)
+    - If you specify the chapters explicitly, then you don't need to number them
+    - Makes it easier to rearrange chapter order
+    - Also makes it easier to temporarily exclude chapters when compiling the book - this may come in handy, see below
 
 ## Rely on the bookdown website
 [https://bookdown.org/yihui/bookdown/](https://bookdown.org/yihui/bookdown/)
