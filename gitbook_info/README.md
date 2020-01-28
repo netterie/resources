@@ -46,8 +46,6 @@ Other benefits:
 - Aesthetics
 
 # More on GitBooks versus other formats
-Pros/cons/examples of different html formats for displaying work - general markdown tools (and clarify, "just use knitr" - is that even a correct phrase?) Also show SHAMP-public as-is and the background creation process.
-Would any of these be good for the new statnet website? How does statnet.github.io work/look? How do we use it - lightweight, organization-wide (not one repo), and an editable wiki INSTEAD of needing to push
 
 ## Single .Rmd file 
 
@@ -57,7 +55,7 @@ Would any of these be good for the new statnet website? How does statnet.github.
 
 **PROS**
 - [As stated above](https://github.com/netterie/resources/tree/master/gitbook_info#do-not-make-a-book-when-an-rmd-file-with-floating-toc-is-sufficient), it's the cleanest, simplest option 
-- Tons of flexibility: floating TOC, code folding, flexdashboard, tabs
+- Tons of flexibility: [floating TOC](https://bookdown.org/yihui/rmarkdown/html-document.html#table-of-contents), [code folding](https://bookdown.org/yihui/rmarkdown/html-document.html#code-folding), [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/), [tabs](https://bookdown.org/yihui/rmarkdown/html-document.html#tabbed-sections)
 - Output to HTML or pdf
 
 **CONS**
@@ -77,7 +75,11 @@ Would any of these be good for the new statnet website? How does statnet.github.
 - Does not support all features available to single Rmd files, like code-folding?
 - Can be buggy 
 
-## Website
+**GETTING STARTED** [See above](https://github.com/netterie/resources/tree/master/gitbook_info#getting-started-with-bookdown-for-gitbooks)
+
+**EXAMPLES** The books at bookdown.org, for example [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) and 
+
+## Website via Rmarkdown
 
 **BEST FOR** Web-based access to a large amount of information
 
@@ -90,4 +92,13 @@ Would any of these be good for the new statnet website? How does statnet.github.
 **CONS**
 - HTML only
 
+**GETTING STARTED** There are surely many tutorials out there. Here is [one way to get started](https://github.com/netterie/resources/tree/master/websites#websites-with-rmarkdown). Or, try [workflowr](https://jdblischak.github.io/workflowrBeta/index.html#why-use-workflowr) which seems to be good for simpler analyses that have accompanying text and figures.
 
+**EXAMPLES** [Public site for SHAMP](https://statnet.github.io/SHAMP-public), if you want an internal example. If you want to try editing from the web, see [my test website](https://netterie.github.io/test-website/) and [associated public repo](https://github.com/netterie/test-website). If you 
+
+## Website via GitHub Pages and Jekyll
+
+I don't know much about this, but [here's the tutorial](https://guides.github.com/features/pages/#setup) and [here's what I set up following it...](https://netterie.github.io). Also, I must have set up https://hivbackcalc.github.io this way and then forgot about it :P
+
+## Wikis
+If the goal is to have simple, edit-via-web content, a well-designed wiki may be a good option. [Here's](https://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects) a list of good ones
