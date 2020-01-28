@@ -77,7 +77,7 @@ Other benefits:
 
 **GETTING STARTED** [See above](https://github.com/netterie/resources/tree/master/gitbook_info#getting-started-with-bookdown-for-gitbooks)
 
-**EXAMPLES** The books at bookdown.org, for example [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) and 
+**EXAMPLES** The books at http://bookdown.org, for example [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 ## Website via Rmarkdown
 
@@ -100,17 +100,24 @@ Other benefits:
 
 **BEST FOR** Simple edit-via-web site, specific to a single user?
 
+**RELIES ON** A GitHub user's "GitHub Pages" feature
+
 **PROS**
 - I like how you get a preview of the .md content when you view the page from the repo, e.g. https://github.com/netterie/netterie.github.io/blob/master/second_page.md
 
 **GETTING STARTED** [Here's the tutorial](https://guides.github.com/features/pages/#setup)  
+
 **EXAMPLES**
+
 https://netterie.github.io
+
 https://hivbackcalc.github.io
 
 ## Wikis
 
 **BEST FOR** Simple edit-via-web site, specific to one repository?
+
+**RELIES ON** A GitHub repo's "Wiki" feature
 
 **EXAMPLES**
  [Here's](https://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects) a list of good ones.
