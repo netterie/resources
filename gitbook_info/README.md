@@ -94,11 +94,23 @@ Other benefits:
 
 **GETTING STARTED** There are surely many tutorials out there. Here is [one way to get started](https://github.com/netterie/resources/tree/master/websites#websites-with-rmarkdown). Or, try [workflowr](https://jdblischak.github.io/workflowrBeta/index.html#why-use-workflowr) which seems to be good for simpler analyses that have accompanying text and figures.
 
-**EXAMPLES** [Public site for SHAMP](https://statnet.github.io/SHAMP-public), if you want an internal example. If you want to try editing from the web, see [my test website](https://netterie.github.io/test-website/) and [associated public repo](https://github.com/netterie/test-website). If you 
+**EXAMPLES** [Public site for SHAMP](https://statnet.github.io/SHAMP-public), if you want an internal example. 
 
 ## Website via GitHub Pages and Jekyll
 
-I don't know much about this, but [here's the tutorial](https://guides.github.com/features/pages/#setup) and [here's what I set up following it...](https://netterie.github.io). Also, I must have set up https://hivbackcalc.github.io this way and then forgot about it :P
+**BEST FOR** Simple edit-via-web site, specific to a single user?
+
+**PROS**
+- I like how you get a preview of the .md content when you view the page from the repo, e.g. https://github.com/netterie/netterie.github.io/blob/master/second_page.md
+
+**GETTING STARTED** [Here's the tutorial](https://guides.github.com/features/pages/#setup)  
+**EXAMPLES**
+https://netterie.github.io
+https://hivbackcalc.github.io
 
 ## Wikis
-If the goal is to have simple, edit-via-web content, a well-designed wiki may be a good option. [Here's](https://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects) a list of good ones
+
+**BEST FOR** Simple edit-via-web site, specific to one repository?
+
+**EXAMPLES**
+ [Here's](https://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects) a list of good ones.
