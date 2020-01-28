@@ -45,6 +45,49 @@ Other benefits:
 - Can easily make a public website by saving the output to repo/docs and turning on the github.io website
 - Aesthetics
 
+# More on GitBooks versus other formats
+Pros/cons/examples of different html formats for displaying work - general markdown tools (and clarify, "just use knitr" - is that even a correct phrase?) Also show SHAMP-public as-is and the background creation process.
+Would any of these be good for the new statnet website? How does statnet.github.io work/look? How do we use it - lightweight, organization-wide (not one repo), and an editable wiki INSTEAD of needing to push
 
+## Single .Rmd file 
+
+**BEST FOR** most reproducible work
+
+**RELIES ON** knitr, rmarkdown
+
+**PROS**
+- [As stated above](https://github.com/netterie/resources/tree/master/gitbook_info#do-not-make-a-book-when-an-rmd-file-with-floating-toc-is-sufficient), it's the cleanest, simplest option 
+- Tons of flexibility: floating TOC, code folding, flexdashboard, tabs
+- Output to HTML or pdf
+
+**CONS**
+- Doesn't accommodate a large amount of computation well, unless perhaps you cache major sections? 
+
+## GitBook
+
+**BEST FOR** When you want to typeset a large amount of information to multiple formats (html, pdf and/or epub)
+
+**RELIES ON** knitr, rmarkdown, bookdown
+
+**PROS**
+- Collects multiple Rmd files into one "book"
+- Output to html, pdf and/or epub
+
+**CONS**
+- Does not support all features available to single Rmd files, like code-folding?
+- Can be buggy 
+
+## Website
+
+**BEST FOR** Web-based access to a large amount of information
+
+**RELIES ON** knitr, rmarkdown
+
+**PROS** 
+- Can combine several layers of navigation: top navbar with drop-down sub-sections plus normal Rmd navation (floating TOC, tabs)
+- Many aesthetics are highly customizable 
+
+**CONS**
+- HTML only
 
 
