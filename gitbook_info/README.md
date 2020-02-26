@@ -105,7 +105,7 @@ Other benefits:
 **PROS**
 - I like how you get a preview of the .md content when you view the page from the repo, e.g. https://github.com/netterie/netterie.github.io/blob/master/second_page.md
 
-**GETTING STARTED** [Here's the tutorial](https://guides.github.com/features/pages/#setup) for setting up your page; [Here's the guide](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll) to customizing.
+**GETTING STARTED** [Here's the tutorial](https://guides.github.com/features/pages/#setup) for setting up your page; [Here's the guide](https://help.github.com/en/github/working-with-github-pages) to customizing.
 
 **EXAMPLES**
 
