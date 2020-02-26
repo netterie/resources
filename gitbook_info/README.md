@@ -92,7 +92,7 @@ Other benefits:
 **CONS**
 - HTML only
 
-**GETTING STARTED** There are surely many tutorials out there. Here is [one way to get started](https://github.com/netterie/resources/tree/master/websites#websites-with-rmarkdown). Or, try [workflowr](https://jdblischak.github.io/workflowrBeta/index.html#why-use-workflowr) which seems to be good for simpler analyses that have accompanying text and figures.
+**GETTING STARTED** There are surely many tutorials out there. Here is [one way to get started](https://github.com/netterie/resources/tree/master/websites#websites-with-rmarkdown). Or, try [workflowr](https://jdblischak.github.io/workflowrBeta/index.html#why-use-workflowr) which seems to be good for simpler analyses that have accompanying text and figures. [pkgdown](https://github.com/netterie/resources#pkgdown) seems to be a fast way to use this framework to turn your package content into a website.
 
 **EXAMPLES** [Public site for SHAMP](https://statnet.github.io/SHAMP-public), if you want an internal example. 
 
